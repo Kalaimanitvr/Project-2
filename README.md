@@ -4,7 +4,7 @@
 Explore the project details using these resources:
 - 📓 **[Jupyter Notebook 1](./c9_project1.ipynb)**: Core analysis and model development.
 - 📓 **[Jupyter Notebook 2](./c9_project2.ipynb)**: Extended analysis and clustering exploration.
-- 📊 **[Presentation Slides](./c9_projectppt.pptx)**: High-level insights and strategic recommendations.
+- 📊 **[Presentation Slides](./c9_projectppt.pdf)**: High-level insights and strategic recommendations.
 
 ---
 
